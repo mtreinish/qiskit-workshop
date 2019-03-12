@@ -32,3 +32,14 @@ qiskit/basics/Qconfig_IBMQ_network-dev.py
 .DS_Store
 
 .venv
+
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.swp
+*.swo
+*.vrb
+_minted-*
