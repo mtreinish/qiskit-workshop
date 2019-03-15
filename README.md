@@ -11,4 +11,9 @@ you'll need Qiskit installed (although the first cell in the notebook shows how 
 
 ### Running on a hosted jupyter service.
 
-There are several hosted jupyter services that you can run the workshop through.
+There are several hosted jupyter services that you can run the workshop
+through. Google's colab service has been setup with this so you can go to:
+
+https://colab.research.google.com/github/mtreinish/qiskit-workshop/blob/master/Workshop.ipynb
+
+To run the latest version of this workshop without needing to install any software locally.
